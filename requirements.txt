@@ -1,2 +1,4 @@
 exif
 gpx
+pillow
+piexif
